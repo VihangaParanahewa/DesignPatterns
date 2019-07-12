@@ -8,5 +8,4 @@ public abstract class Burger implements Item
     return new Wrapper();
   }
 
-  @Override public abstract float price();
 }
